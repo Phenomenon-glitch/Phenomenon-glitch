@@ -7,7 +7,6 @@
 
  <p align="center">:musical_note: Music Producer :musical_note: </p>
 
- <p align="center">:waffle: Your favorite professional waffle stealer :waffle: </p>
 <br clear="left"/><br clear="left"/>
 
 ---
