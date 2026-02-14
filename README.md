@@ -1,4 +1,4 @@
-## <p align="center"><img align="left" alt="little chicken" width="100px" style="padding-right:10px;" src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif"/> ✨ Hi there, i am Phen ✨ <img align="right" alt="little chicken" width="100px" style="padding-right:10px;" src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif"/>
+## <p align="center"><img align="left" alt="little chicken" width="100px" style="padding-right:10px;" src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif"/> ✨ Hi there✨ <img align="right" alt="little chicken" width="100px" style="padding-right:10px;" src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif"/>
 </p>  
 <br clear="left"/>
 <br clear="left"/><br clear="left"/>
